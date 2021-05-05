@@ -1,0 +1,18 @@
+{
+  "encoded": "MFMCAQEwBQYDK2VwBCIEIHDBQOnx+Q0RR55Hqr0PJci1jHE/beGlvSXteSHYaW9PBOPZx45/gpLsM8JzOtGFeN1mde3ZgF0Y06sZYD1s54+hIwMhAKpEqJfEdxIyln5/wnh2ChBMDd95m6Ey4dSVE4ECh/tn",
+  "encoding": {
+    "content": [
+      "pkcs8",
+      "sr25519"
+    ],
+    "type": [
+      "none"
+    ],
+    "version": "3"
+  },
+  "address": "5FuxPmhY2pJRDJDvMJTQ7wf58EzpFuKGxMQ1yACdZNgPk6FS",
+  "meta": {
+    "name": "new keypair"
+  },
+  "mnemonic": "select life gas corn cheap evil canyon hair super leave flee peasant"
+}
